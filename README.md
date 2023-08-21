@@ -1,6 +1,6 @@
-<h1>TUTORIAL FLAPPY BIRD 🧾</h1>
+<h1>TUTORIAL FLAPPY BIRD <img src="./imagens_readme/flappy_bird_icon.png" height="20px"></h1>
 
-<h1>INSTALAÇÃO GODOT 4.0.3 🧾</h1>
+<h1>INSTALAÇÃO GODOT 4.0.3 <img src="./imagens_readme/godot_icon.png" height="20px"></h1>
 Instale a versão 4.0.3 d Godot Engine:
 https://godotengine.org/download/windows/
 
@@ -11,7 +11,7 @@ https://godotengine.org/download/windows/
 <img src="./imagens_readme/criandoProjeto.png">
 
 
-<h1>CRIAÇÃO DA ESTRUTURA DE PASTAS🧾</h1>
+<h1>CRIAÇÃO DA ESTRUTURA DE PASTAS📂</h1>
 1- A estruturação do seu projeto deve seguir o seguinte exemplo:
 <img src="./imagens_readme/godot1.png">
 
@@ -25,7 +25,7 @@ https://godotengine.org/download/windows/
 Nota:
 O script global é responsável por organizar variáveis que podem ser acessadas por qualquer parte do projeto.
 
-<h1>CONFIGURAÇÕES DO PROJETO🧾</h1>
+<h1>CONFIGURAÇÕES DO PROJETO⚙️</h1>
 1- Entre na aba Projeto
 
 2- Vá em Exibição > janela
@@ -33,7 +33,7 @@ O script global é responsável por organizar variáveis que podem ser acessadas
 3- Altere a largura e altura da viewport para 220x360 
 <img src="./imagens_readme/janela.png">
 
-<h1>CRIAÇÃO DA CENA MAIN 🧾</h1>
+<h1>CRIAÇÃO DA CENA MAIN 🎞️</h1>
 1- Adicione uma nova cena 2d na pasta cenas, e nomeie ela como main.tscn
 
 2- selecione o nó da cena e clique no botão de adicionar script <img src="./imagens_readme/addscript.png">, e coloque o mesmo nome que foi colocado na cena "main.gd"
@@ -52,7 +52,7 @@ O script global é responsável por organizar variáveis que podem ser acessadas
 6- repita o processo para o outro CollisionShape2d e posicione as hitboxes criadas da seguinte forma
 <img src="./imagens_readme/hitboxes.png">
 
-<h1>ADICIONANDO O PERSONAGEM A CENA MAIN 🧾</h1>
+<h1>ADICIONANDO O PERSONAGEM A CENA MAIN 🐦</h1>
 1- Dentro da pasta cenas, crie uma cena chamada personagem
 
 2- Mude o tipo da cena para CharacterBody2d
@@ -231,7 +231,7 @@ func _process(_delta):
 
 9- adicione a cena dentro da main
 
-<h1>ADICIONANDO COLETÁVEL, OBSTÁCULOS E PONTUAÇÕES 🧾</h1>
+<h1>ADICIONANDO COLETÁVEL, OBSTÁCULOS E PONTUAÇÕES 🪙</h1>
 
 1- Crie uma nova Cena chamada de obstaculo do tipo Static body2d, e organize desta forma
 <img src="./imagens_readme/obstaculo.png">
@@ -327,7 +327,7 @@ func _process(delta):
 
 ```
 
-<h1>ADICIONANDO TELA DE PLAY/GAME OVER 🧾</h1>
+<h1>ADICIONANDO TELA DE PLAY/GAME OVER 🕹️</h1>
 1- Crie uma nova cena chamada menu
 
 2- organize ela da seguinte forma
