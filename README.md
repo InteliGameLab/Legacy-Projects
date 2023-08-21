@@ -184,7 +184,7 @@ var novo_recorde = false
 
 <img src="./imagens_readme/cenamainv2.png">
 
-<h1>ADICIONANDO PARALAX BACKGROUND 🧾</h1>
+<h1>ADICIONANDO PARALAX BACKGROUND 🏞️</h1>
 1- Crie uma nova cena paralax_background
 
 2- Adicione um ParalaxBackground
