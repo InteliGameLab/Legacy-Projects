@@ -1,6 +1,6 @@
 <h1>TUTORIAL FLAPPY BIRD <img src="./imagens_readme/flappy_bird_icon.png" height="20px"></h1>
 
-<h1>INSTALAÇÃO GODOT 4.0.3 <img src="./imagens_readme/godot_icon.png" height="20px"></h1>
+<h1>INSTALAÇÃO GODOT 4.0.3 <img src="./imagens_readme/Godot_icon.png" height="20px"></h1>
 Instale a versão 4.0.3 d Godot Engine:
 https://godotengine.org/download/windows/
 
